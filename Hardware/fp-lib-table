@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "rest_switch")(type "KiCad")(uri "${KIPRJMOD}/rest_switch.pretty")(options "")(descr ""))
+)

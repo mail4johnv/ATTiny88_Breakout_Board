@@ -349,8 +349,8 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "../Breakout_for_attiny88.net",
-      "specctra_dsn": "../Breakout_for_attiny88.dsn",
+      "netlist": "Breakout_for_attiny88.net",
+      "specctra_dsn": "Breakout_for_attiny88.dsn",
       "step": "",
       "vrml": ""
     },
@@ -387,7 +387,7 @@
   },
   "sheets": [
     [
-      "dbd78b8c-d6f3-477b-9392-17c1bdbf58d4",
+      "f9e4c83e-755a-49c2-878d-579c5a5441cd",
       ""
     ]
   ],

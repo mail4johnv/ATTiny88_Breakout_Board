@@ -18,4 +18,4 @@ The breakout board is made using ATTINY88-MMU (28 pin package.). It also connect
 
 ## License
 
-This project is realeased using **Mozilla Public License 2.0**
+This project is realeased under **Mozilla Public License 2.0**
